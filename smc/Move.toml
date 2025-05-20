@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-nft_launchpad_addr='c64b9ab96ce715fbe7c0a0746dbbb933a148c4c6ecab016abddc16977c0abc61'
+nft_launchpad_addr = '5011fdb0e6a54510aa9c14350148ebea652b1c7b86aacee567200c15aee19f40'
 
 [dev-addresses]
 
